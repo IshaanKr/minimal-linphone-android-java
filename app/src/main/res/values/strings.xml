@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Minimal Linphone Android</string>
+    <string name="submit">Submit</string>
+    <string name="password">Password</string>
+    <string name="assistant_generic_account">SIP Account</string>
+    <string name="assistant_login_desc">Please enter your username and password with your SIP domain</string>
+    <string name="username">Username</string>
+    <string name="domain">Domain</string>
+    <string name="assistant_display_name_optional">Display name (optional)</string>
+    <string name="transport">Transport</string>
+    <string name="pref_transport_udp">UDP</string>
+    <string name="pref_transport_tcp">TCP</string>
+    <string name="pref_transport_tls">TLS</string>
+    <string name="assistant_login">Login</string>
+    <string name="content_description_username_field">Username field</string>
+    <string name="content_description_domain_field">Domain field</string>
+    <string name="content_description_display_field">Display name field</string>
+</resources>
